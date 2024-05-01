@@ -5,6 +5,7 @@
 ###### Usuário:
 
 1- Abrir o terminal.
+
 2- Digitar o comando `cd C:\Users\Desktop\caminho\caminho\Dio-Java-basico\ContaBanco\bin`" teclar *Enter*.
 
 3- Digitar o `java ContaTerminal` (nome do arquivo na pasta bin sem usar o ".class"), 
