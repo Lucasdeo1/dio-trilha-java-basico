@@ -5,10 +5,13 @@
 ###### Usuário:
 
 1- Abrir o terminal;
+
 2- Digitar o comando `cd C:\Users\Desktop\caminho\caminho\Dio-Java-basico\ContaBanco\bin`" teclar *Enter*;
+
 3- Digitar o `java ContaTerminal` (nome do arquivo na pasta bin sem usar o ".class"), 
     caso apareça mensagem de Error: acompanhada do "Try ... `java --enable-preview`"
     Basta digitar `java --enable-preview ContaTerminal`  e o programa irá executar corretamente;
+    
 4-A cada interação inserir os seguintes dados:
         | Atributo  | Tipo     | Exemplo   
         | --------- | ---------| ------- 
